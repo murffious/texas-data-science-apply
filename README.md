@@ -6,3 +6,9 @@ Demonstrate proficiency in Machine Learning in order to receive an offer to the 
 SKILLS 
 Python, Pycharm, python and related packages for ML(DS) 
 1. KAGGLE 
+
+Technology / GOVT Policy 
+Toilet, Bike, 
+
+
+Phd MIT TTPP 
