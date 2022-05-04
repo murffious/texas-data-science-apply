@@ -7,3 +7,5 @@ SKILLS
 Python, Pycharm, python and related packages for ML(DS) 
 1. KAGGLE 
 
+
+Advanced Pandas Course LinkedIn
