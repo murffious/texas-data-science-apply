@@ -16,3 +16,5 @@ Python, Pycharm, python and related packages for ML(DS)
 Advanced Pandas Course LinkedIn
 
 
+https://www.edx.org/course/linear-algebra-foundations-to-frontiers
+Introduction to Linear Algebra JetBrains
